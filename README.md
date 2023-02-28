@@ -1,3 +1,5 @@
+# DO NOT USE THIS REPO - Use mobiusflow/chirpstack-docker
+
 # ChirpStack Application Server
 
 ![Tests](https://github.com/brocaar/chirpstack-application-server/actions/workflows/main.yml/badge.svg?branch=master)
